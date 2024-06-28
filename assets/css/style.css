@@ -201,6 +201,13 @@ hr {
 #photos {
     line-height: 0;
 }
+
+/* sign-up page */
+
+#signup {
+    background: url();
+}
+
 /* footer */
 #social-networks {
     text-align: center;
