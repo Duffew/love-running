@@ -1,6 +1,6 @@
 ---
-name: 'USER STORY: <title>'
-about: "<purpose>"
+name: USER STORY
+about: Default User Story Template
 title: ''
 labels: ''
 assignees: ''
